@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m am a **Full Stack Developer**
+ 🔭 I am a **Full Stack Developer**
  
  🌱 I’m currently learning **DevOps, AWS**
 
@@ -72,7 +72,7 @@
 <br/>
 
 <div align="center">
-<a href='' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://www.linkedin.com/in/rakeshkumarnahak/' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1qS5FnQ537W7r78NR56UWushycUSAcKIecSrfAIZE5Jha594MYe7zYEK5qOJgr-GmTA&usqp=CAU' /></a>
 </div>
 
 <br/>
